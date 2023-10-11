@@ -18,7 +18,7 @@ Learning is at the core of our existence. We are here to gain hands-on experienc
 <br>
 [Farm-Management-System](https://farm-management-system-qj5ggfo78-verylegalfarmers.vercel.app/) - a web-based application that helps farmers track their activities effectively and efficiently.
 <br>
-(Note: there is a ~3 minute windup time as we are currently hosting using Render free edition.)
+(Note: there is a ~3 minute windup time as we are currently hosting our backend using Render free edition.)
 
 **Demo Credentials**: 
 <br>
