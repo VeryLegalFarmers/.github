@@ -2,11 +2,11 @@
 
 Hey there!
 
-Welcome to **VeryLegalFarmers**, our cozy corner of the digital farm where curiosity meets cultivation! We're just a bunch of students who share a common passion: farming and technology. At VeryLegalFarmers, we're not your typical farmers – we're digital dreamers, experimenting with seeds of code and creativity to harvest innovation!
+Welcome to **VeryLegalFarmers**, our cozy corner of the digital farm where curiosity meets cultivation! We're just a bunch of students who share a common passion: farming and technology.
 
 ## About Us
 
-We're a group of enthusiastic university students who decided to embark on an exciting adventure together. Our common ground? A keen interest in both farming and technology.
+We're a group of enthusiastic university students who decided to embark on an exciting adventure together in building farm related software.
 
 ## Motivation
 
