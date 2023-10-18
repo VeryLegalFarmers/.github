@@ -34,18 +34,24 @@ Certainly! Here's a mock checklist that you can include in your README:
 - [x] User authentication and login system.
 - [x] Dashboard displaying farm activities overview.
 - [ ] Proper Routing
-Farmer Actions.
+
+**Farmer Actions:**
 - [ ] Tend Fields
 - [x] Nurture Animals (will be up once routing design/update is done)
 - [ ] Sell Products
 - [ ] Manage Facilities
-Company.
+      
+**Company:**
 - [ ] Design
-Housing.
+      
+**Housing:**
 - [ ] Design
-Inventory.
+      
+**Inventory:**
 - [ ] Design
-User Info.
+      
+**User Info:**
 - [ ] Design
-About.
+      
+**About:**
 - [ ] Design
