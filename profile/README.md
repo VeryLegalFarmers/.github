@@ -14,7 +14,7 @@ Learning is at the core of our existence. We are here to gain hands-on experienc
 
 ## Current Projects
 
-(**Current Status: Offline**)
+(**Current Status: Online**)
 <br>
 [Farm-Management-System](https://farm-management-system-qj5ggfo78-verylegalfarmers.vercel.app/) - a web-based application that helps farmers track their activities effectively and efficiently.
 <br>
