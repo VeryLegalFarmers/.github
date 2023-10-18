@@ -16,7 +16,7 @@ Learning is at the core of our existence. We are here to gain hands-on experienc
 
 (**Current Status: Online**)
 <br>
-[Farm-Management-System](https://farm-management-system-qj5ggfo78-verylegalfarmers.vercel.app/) - a web-based application that helps farmers track their activities effectively and efficiently.
+[Farm-Management-System]([https://farm-management-system-qj5ggfo78-verylegalfarmers.vercel.app](https://farm-management-system-eight.vercel.app/login)/) - a web-based application that helps farmers track their activities effectively and efficiently.
 <br>
 (Note: there is a ~3 minute windup time as we are currently hosting our backend using Render free edition.)
 
