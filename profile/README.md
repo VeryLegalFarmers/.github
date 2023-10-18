@@ -25,3 +25,27 @@ Learning is at the core of our existence. We are here to gain hands-on experienc
 Username: 'guest' 
 <br>
 Password: 'guest'
+
+**Feature Checklist**:
+
+Certainly! Here's a mock checklist that you can include in your README:
+
+**Feature Checklist:**
+- [x] User authentication and login system.
+- [x] Dashboard displaying farm activities overview.
+- [ ] Proper Routing
+Farmer Actions.
+- [ ] Tend Fields
+- [x] Nurture Animals (will be up once routing design/update is done)
+- [ ] Sell Products
+- [ ] Manage Facilities
+Company.
+- [ ] Design
+Housing.
+- [ ] Design
+Inventory.
+- [ ] Design
+User Info.
+- [ ] Design
+About.
+- [ ] Design
