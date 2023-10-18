@@ -1,4 +1,4 @@
-# VeryLegalFarmers: Growing Ideas, Harvesting Innovation 🌱🚜
+# VeryLegalFarmers 🌱🚜
 
 Hey there!
 
