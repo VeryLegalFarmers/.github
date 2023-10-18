@@ -28,8 +28,6 @@ Password: 'guest'
 
 **Feature Checklist**:
 
-Certainly! Here's a mock checklist that you can include in your README:
-
 **Feature Checklist:**
 - [x] User authentication and login system.
 - [x] Dashboard displaying farm activities overview.
