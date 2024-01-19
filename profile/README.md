@@ -2,15 +2,11 @@
 
 Hey there!
 
-Welcome to **VeryLegalFarmers**, our cozy corner of the digital farm where curiosity meets cultivation! We're just a bunch of students who share a common passion: farming and technology.
+Welcome to **VeryLegalFarmers**!
 
 ## About Us
 
-We're a group of enthusiastic university students who decided to embark on an exciting adventure together in building farm related software.
-
-## Motivation
-
-Learning is at the core of our existence. We are here to gain hands-on experience, to navigate the complexities of building applications, and to understand the unique challenges posed by agriculture-related software. Every bug we encounter is a puzzle, every problem a chance to learn something new. We thrive on the thrill of discovery and the satisfaction of overcoming hurdles.
+We're a group of enthusiastic university students who want to improve our skills in technology by working on fun projects!
 
 ## Current Projects
 
@@ -18,7 +14,7 @@ Learning is at the core of our existence. We are here to gain hands-on experienc
 <br>
 [Farm-Management-System](https://farm-management-system-eight.vercel.app/login) - a web-based application that helps farmers track their activities effectively and efficiently.
 <br>
-(Note: there is a ~3 minute windup time as we are currently hosting our backend using Render free edition.)
+(Note: there is a ~3 minute windup time for logging in, as we are currently hosting our backend using Render free edition.)
 
 **Demo Credentials**: 
 <br>
