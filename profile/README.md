@@ -31,7 +31,7 @@ Password: 'guest'
 
 **Farmer Actions:**
 - [ ] Tend Fields
-- [x] Nurture Animals (will be up once routing design/update is done)
+- [x] Nurture Animals
 - [ ] Sell Products
 - [ ] Manage Facilities
       
