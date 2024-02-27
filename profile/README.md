@@ -22,8 +22,6 @@ Username: 'guest'
 <br>
 Password: 'guest'
 
-**Feature Checklist**:
-
 **Feature Checklist:**
 - [x] User authentication and login system.
 - [x] Dashboard displaying farm activities overview.
