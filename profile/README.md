@@ -10,7 +10,7 @@ We're a group of enthusiastic university students who want to improve our skills
 
 ## Current Projects
 
-(**Current Status: Unavailable (Server Migration)**)
+(**Current Status: Online**)
 <br>
 [Farm-Management-System](https://farm-management-system-eight.vercel.app/login) - a web-based application that helps farmers track their activities effectively and efficiently.
 <br>
